@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project Sentinel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project Sentinel.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project Sentinel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project Sentinel.props",
+      "PackagePath": "build\\Project Sentinel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project Sentinel.props",
+      "PackagePath": "buildMultiTargeting\\Project Sentinel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project Sentinel.props",
+      "PackagePath": "buildTransitive\\Project Sentinel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

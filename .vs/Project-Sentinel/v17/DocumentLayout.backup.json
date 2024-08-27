@@ -59,7 +59,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T07:56:25.881Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,7 +86,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Dashboard.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:39.341Z"
+              "WhenOpened": "2024-08-27T07:44:39.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +99,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Announcements.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:38.526Z"
+              "WhenOpened": "2024-08-27T07:44:38.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,7 +112,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:37.9Z"
+              "WhenOpened": "2024-08-27T07:44:37.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,7 +125,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Cameras.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:35.327Z"
+              "WhenOpened": "2024-08-27T07:44:35.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -133,7 +138,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Maps.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:34.274Z"
+              "WhenOpened": "2024-08-27T07:44:34.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -145,7 +151,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Vehicles.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:32.172Z"
+              "WhenOpened": "2024-08-27T07:44:32.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,7 +164,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Settings.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:26.664Z"
+              "WhenOpened": "2024-08-27T07:44:26.664Z",
+              "EditorCaption": ""
             }
           ]
         }

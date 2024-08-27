@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github Repos\\Project-Sentinel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,24 +46,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Project Sentinel\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Project Sentinel\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T07:56:25.881Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\wwwroot\\site.css",
               "RelativeDocumentMoniker": "Project Sentinel\\wwwroot\\site.css",
@@ -85,7 +86,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Dashboard.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:39.341Z"
+              "WhenOpened": "2024-08-27T07:44:39.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +99,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Announcements.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:38.526Z"
+              "WhenOpened": "2024-08-27T07:44:38.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,7 +112,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:37.9Z"
+              "WhenOpened": "2024-08-27T07:44:37.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,7 +125,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Cameras.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:35.327Z"
+              "WhenOpened": "2024-08-27T07:44:35.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -133,7 +138,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Maps.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:34.274Z"
+              "WhenOpened": "2024-08-27T07:44:34.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -145,7 +151,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Vehicles.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:32.172Z"
+              "WhenOpened": "2024-08-27T07:44:32.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,7 +164,8 @@
               "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Settings.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:44:26.664Z"
+              "WhenOpened": "2024-08-27T07:44:26.664Z",
+              "EditorCaption": ""
             }
           ]
         }

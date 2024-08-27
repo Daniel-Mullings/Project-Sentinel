@@ -1,0 +1,44 @@
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\appsettings.Development.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\appsettings.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.staticwebassets.runtime.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.exe
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.deps.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.runtimeconfig.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.pdb
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.FluentUI.AspNetCore.Components.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.FluentUI.AspNetCore.Components.Emoji.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.FluentUI.AspNetCore.Components.Icons.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.csproj.AssemblyReference.cache
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.AssemblyInfoInputs.cache
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.AssemblyInfo.cs
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.csproj.CoreCompileInputs.cache
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.sourcelink.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets\msbuild.Project Sentinel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets\msbuild.build.Project Sentinel.props
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project Sentinel.props
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project Sentinel.props
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\scopedcss\bundle\Project Sentinel.styles.css
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\scopedcss\projectbundle\Project Sentinel.bundle.scp.css
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\jsmodules\jsmodules.build.manifest.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project .42661170.Up2Date
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\refint\Project Sentinel.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.pdb
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.genruntimeconfig.cache
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\ref\Project Sentinel.dll
