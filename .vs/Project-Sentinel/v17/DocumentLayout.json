@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Repos\\Project-Sentinel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\vehicles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\vehicles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\maps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\maps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\cameras.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\cameras.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\performance analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\performance analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|d:\\github repos\\project-sentinel\\project sentinel\\components\\pages\\announcements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26BF3BD5-55CD-4B4F-8056-E2D5511CA46C}|Project Sentinel\\Project Sentinel.csproj|solutionrelative:project sentinel\\components\\pages\\announcements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:56:25.881Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\wwwroot\\site.css",
+              "RelativeDocumentMoniker": "Project Sentinel\\wwwroot\\site.css",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\wwwroot\\site.css",
+              "RelativeToolTip": "Project Sentinel\\wwwroot\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T07:44:18.348Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Dashboard.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:39.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Announcements.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Announcements.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Announcements.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Announcements.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Announcements.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:38.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Performance Analytics.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Performance Analytics.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:37.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cameras.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Cameras.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Cameras.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Cameras.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Cameras.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:35.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Maps.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Maps.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Maps.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Maps.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Maps.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicles.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Vehicles.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Vehicles.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Vehicles.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Vehicles.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:32.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Settings.razor",
+              "RelativeDocumentMoniker": "Project Sentinel\\Components\\Pages\\Settings.razor",
+              "ToolTip": "D:\\Github Repos\\Project-Sentinel\\Project Sentinel\\Components\\Pages\\Settings.razor",
+              "RelativeToolTip": "Project Sentinel\\Components\\Pages\\Settings.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:44:26.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

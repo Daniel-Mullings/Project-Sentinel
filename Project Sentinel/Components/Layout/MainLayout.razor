@@ -1,0 +1,91 @@
+﻿@inherits LayoutComponentBase
+
+@inject BaseLayerLuminance BaseLayerLuminance
+@inject NavigationManager Navigation
+
+<FluentDesignTheme @bind-Mode="@_siteThemeMode" @bind-OfficeColor="@_siteOfficeColor" StorageName="theme" />
+<FluentLayout>
+    <FluentHeader class="site-header">
+        Project Sentinel
+        <FluentSpacer />
+        <FluentSearch class="site-control site-search" @bind-Value="_searchValue" @bind-Value:after="OnSearch" Placeholder="Type to search" />
+        <FluentButton class="site-control" IconStart="@(_siteThemeMode == DesignThemeModes.Light ? new Icons.Filled.Size20.WeatherSunny() : new Icons.Filled.Size20.WeatherMoon())" @onclick="ToggleDarkMode" />
+        <FluentButton class="site-control site-nav-menu-hamburger" IconStart="@(new Icons.Filled.Size20.LineHorizontal3())" @onclick="ToggleMiniNavMenu" />
+    </FluentHeader>
+
+    <FluentBodyContent>
+        <FluentStack class="site-body-stack" Orientation="Orientation.Horizontal">
+            <div class="site-nav-menu" style="display: @_miniNavMenuExpanded">
+            <FluentNavMenu Expanded="@_fullNavMenuExpanded" Collapsible="true" Width="250" Title="Navigation Menu">
+                <FluentNavLink Icon="@(IsActivePage("/") ? new Icons.Filled.Size20.Board() : new Icons.Regular.Size20.Board())" Href="/" Match="NavLinkMatch.All">Dashboard</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Announcements") ? new Icons.Filled.Size20.MegaphoneLoud() : new Icons.Regular.Size20.MegaphoneLoud())" Href="/Announcements">Announcements</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Performance_Analytics") ? new Icons.Filled.Size20.ChartMultiple() : new Icons.Regular.Size20.ChartMultiple())" Href="/Performance_Analytics">Performance Analytics</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Cameras") ? new Icons.Filled.Size20.VideoSecurity(): new Icons.Regular.Size20.VideoSecurity())" Href="/Cameras">Cameras</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Maps") ? new Icons.Filled.Size20.Map() : new Icons.Regular.Size20.Map())" Href="/Maps">Maps</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Vehicles") ? new Icons.Filled.Size20.VehicleCar() : new Icons.Regular.Size20.VehicleCar())" Href="/Vehicles">Vehicles</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/Settings") ? new Icons.Filled.Size20.Settings() : new Icons.Regular.Size20.Settings())" Href="/Settings">Settings</FluentNavLink>
+                <FluentNavLink Icon="@(IsActivePage("/") ? new Icons.Filled.Size20.ArrowExit() : new Icons.Regular.Size20.ArrowExit())" @onclick="OnClose">Exit</FluentNavLink>
+                </FluentNavMenu>
+            </div>
+
+            <div class="site-body">
+                @Body
+            </div>
+        </FluentStack>
+    </FluentBodyContent>
+
+    <FluentFooter class="site-footer">
+        <div class="site-credit">Project Sentinel Version x.x.x.x - Powered by .NET 8.0.7</div>
+        <FluentSpacer />
+        <div class="site-copyright">Daniel Mullings © 2024. All rights reserved</div>
+    </FluentFooter>
+</FluentLayout>
+
+@code
+{
+    private DesignThemeModes _siteThemeMode = DesignThemeModes.Light;
+    private OfficeColor? _siteOfficeColor = OfficeColor.Default;
+    private bool _fullNavMenuExpanded = true;
+    private string _miniNavMenuExpanded = "none";
+    private string _searchValue = "";
+}
+
+@functions
+{
+    private bool IsActivePage(string href)
+    {
+        if (string.IsNullOrEmpty(Navigation?.Uri))
+            return false;
+
+        var uri = new Uri(Navigation.Uri);
+        return uri.AbsolutePath == href;
+    }
+    private void ToggleDarkMode()
+    {
+        if (_siteThemeMode == DesignThemeModes.Light)
+        {
+            _siteThemeMode = DesignThemeModes.Dark;
+            BaseLayerLuminance.WithDefault(StandardLuminance.DarkMode.GetLuminanceValue());
+        }
+        else
+        {
+            _siteThemeMode = DesignThemeModes.Light;
+            BaseLayerLuminance.WithDefault(StandardLuminance.LightMode.GetLuminanceValue());
+        }
+    }
+    private void ToggleMiniNavMenu()
+    {
+        if (_miniNavMenuExpanded == "none")
+            _miniNavMenuExpanded = "inherit";
+        else
+            _miniNavMenuExpanded = "none";
+    }
+    private void OnSearch()
+    {
+        //To be implemented
+    }
+    private void OnClose()
+    {
+        //To be implemented
+    }
+}
