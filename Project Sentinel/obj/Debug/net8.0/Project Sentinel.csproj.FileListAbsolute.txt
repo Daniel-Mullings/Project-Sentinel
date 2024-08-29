@@ -42,3 +42,6 @@ D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\refint\Projec
 D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.pdb
 D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\Project Sentinel.genruntimeconfig.cache
 D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\ref\Project Sentinel.dll
+D:\Github Repos\Project-Sentinel\Project Sentinel\bin\Debug\net8.0\Project Sentinel.staticwebassets.endpoints.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Github Repos\Project-Sentinel\Project Sentinel\obj\Debug\net8.0\staticwebassets\msbuild.Project Sentinel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

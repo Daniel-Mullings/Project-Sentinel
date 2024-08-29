@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project Sentinel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367b72dc2c0cdd708ee807cf6d2d07ef85a4bbf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ec7adcdf4e03a8189a6946ffd64c97fec0f82ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project Sentinel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project Sentinel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
