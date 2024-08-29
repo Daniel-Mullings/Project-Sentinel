@@ -124,7 +124,7 @@ h1:focus {
                 display: none;
             }
             .site-body-stack .site-nav-menu .fluent-nav-text {
-                display: inherit;
+                display: inherit !important;
             }
         .site-body-stack .site-body {
             width: 100%;
