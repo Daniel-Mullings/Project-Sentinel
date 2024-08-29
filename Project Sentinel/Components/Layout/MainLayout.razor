@@ -16,7 +16,7 @@
     <FluentBodyContent>
         <FluentStack class="site-body-stack" Orientation="Orientation.Horizontal">
             <div class="site-nav-menu" style="display: @_miniNavMenuExpanded">
-            <FluentNavMenu Expanded="@_fullNavMenuExpanded" Collapsible="true" Width="250" Title="Navigation Menu">
+                <FluentNavMenu Expanded="@_fullNavMenuExpanded" Collapsible="true" Width="250" Title="Navigation Menu" ExpandedChanged="ToggleFullNavMenu">
                 <FluentNavLink Icon="@(IsActivePage("/") ? new Icons.Filled.Size20.Board() : new Icons.Regular.Size20.Board())" Href="/" Match="NavLinkMatch.All">Dashboard</FluentNavLink>
                 <FluentNavLink Icon="@(IsActivePage("/Announcements") ? new Icons.Filled.Size20.MegaphoneLoud() : new Icons.Regular.Size20.MegaphoneLoud())" Href="/Announcements">Announcements</FluentNavLink>
                 <FluentNavLink Icon="@(IsActivePage("/Performance_Analytics") ? new Icons.Filled.Size20.ChartMultiple() : new Icons.Regular.Size20.ChartMultiple())" Href="/Performance_Analytics">Performance Analytics</FluentNavLink>
@@ -43,7 +43,7 @@
 
 @code
 {
-    private DesignThemeModes _siteThemeMode = DesignThemeModes.Light;
+    private DesignThemeModes _siteThemeMode = DesignThemeModes.Dark;
     private OfficeColor? _siteOfficeColor = OfficeColor.Default;
     private bool _fullNavMenuExpanded = true;
     private string _miniNavMenuExpanded = "none";
@@ -72,6 +72,10 @@
             _siteThemeMode = DesignThemeModes.Light;
             BaseLayerLuminance.WithDefault(StandardLuminance.LightMode.GetLuminanceValue());
         }
+    }
+    private void ToggleFullNavMenu()
+    {
+        _fullNavMenuExpanded = !_fullNavMenuExpanded;
     }
     private void ToggleMiniNavMenu()
     {
